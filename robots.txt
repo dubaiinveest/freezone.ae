@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://freezone-ae.pages.dev/sitemap.xml
